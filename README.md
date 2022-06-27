@@ -1,2 +1,1 @@
-# Automated-Mavenbuild
-maven build pipeline
+# maven-etech-application
